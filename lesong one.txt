@@ -1,0 +1,46 @@
+src"";
+alert
+var
+//
+типи даных
+Namber 10.456
+String "" ''
+booling true false
+null = null (значение пустое)
+undefined = (отсуствует вообще значение)
+object = {
+name: "Вася,
+age: 25"};
+console.log
+
+Итерация:
++= 10;
+
+Округление числ:
+Math.round
+Math.ceil (округление в большую сторону)
+Math.floor (округление в меньшую сторону)
+
+Сколько знаков показывать после точки:
+переменая.toFixed(количество знаков после точки) 
+
+КОНКАТЕНАЦИЯ
+console.log(myString + "How are you?");
+
+Масивы
+var names = ["Ilya","Petya"];
+console.log(names[0].toUppercase);
+Чтобы изменить значение в масиве:
+names[0] = "Masha";
+console.log(names[0]);
+КАК ДОБАВИТЬ ЭЛЕМЕТ К МВСИВУ:
+переменая.push("Света");
+
+Условия:
+if(candition){expression}
+else {expression}
+<= меньше или равно
+= присваивание
+== значение
+=== значение и тип
+!= не равно not equal (проверяет только значение)
